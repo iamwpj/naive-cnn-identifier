@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+ffhq-data/
+sfhq-data/
+predict_modified/
+job_out/
+tmp/
+test.py
+*.bk
+*.job

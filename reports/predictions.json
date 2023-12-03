@@ -1,0 +1,247 @@
+{
+    "african_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0114297010",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "african_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0043243761",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "african_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000000098",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "asian_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0020990898",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "asian_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000759772",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "asian_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0010829985",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "black_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0005988363",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "black_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0009574029",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "black_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000095176",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "latinx_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0002559137",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "latinx_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0011847754",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "latinx_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000068817",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "me_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000189130",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "me_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000187372",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "me_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000249769",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "na_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000000358",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "na_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000000003",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "na_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0000000000",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "white_man.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0129888346",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "white_person.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0095682209",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "white_woman.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0021445958",
+        "source": "predict/stable-diffusion-turbo"
+    },
+    "african_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "1.0000000000",
+        "source": "predict/fast-sdxl"
+    },
+    "african_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.5719742775",
+        "source": "predict/fast-sdxl"
+    },
+    "african_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9995195866",
+        "source": "predict/fast-sdxl"
+    },
+    "african_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999991655",
+        "source": "predict/fast-sdxl"
+    },
+    "asian_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9997694492",
+        "source": "predict/fast-sdxl"
+    },
+    "asian_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9981858730",
+        "source": "predict/fast-sdxl"
+    },
+    "asian_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9993564487",
+        "source": "predict/fast-sdxl"
+    },
+    "asian_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999459386",
+        "source": "predict/fast-sdxl"
+    },
+    "black_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9996064901",
+        "source": "predict/fast-sdxl"
+    },
+    "black_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999987483",
+        "source": "predict/fast-sdxl"
+    },
+    "black_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.6872770786",
+        "source": "predict/fast-sdxl"
+    },
+    "black_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "1.0000000000",
+        "source": "predict/fast-sdxl"
+    },
+    "latinx_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "1.0000000000",
+        "source": "predict/fast-sdxl"
+    },
+    "latinx_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999963641",
+        "source": "predict/fast-sdxl"
+    },
+    "latinx_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999980927",
+        "source": "predict/fast-sdxl"
+    },
+    "latinx_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9999200106",
+        "source": "predict/fast-sdxl"
+    },
+    "me_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9991689920",
+        "source": "predict/fast-sdxl"
+    },
+    "me_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9932262301",
+        "source": "predict/fast-sdxl"
+    },
+    "me_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9817935824",
+        "source": "predict/fast-sdxl"
+    },
+    "me_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.7817080021",
+        "source": "predict/fast-sdxl"
+    },
+    "na_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.8502401114",
+        "source": "predict/fast-sdxl"
+    },
+    "na_person_2.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.1272373796",
+        "source": "predict/fast-sdxl"
+    },
+    "na_person_3.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0004615641",
+        "source": "predict/fast-sdxl"
+    },
+    "na_person_4.jpg": {
+        "prediction": "real",
+        "exact_prediction": "0.0002455431",
+        "source": "predict/fast-sdxl"
+    },
+    "white_person_1.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.8955220580",
+        "source": "predict/fast-sdxl"
+    },
+    "white_person_2.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9410241842",
+        "source": "predict/fast-sdxl"
+    },
+    "white_person_3.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "1.0000000000",
+        "source": "predict/fast-sdxl"
+    },
+    "white_person_4.jpg": {
+        "prediction": "synthetic",
+        "exact_prediction": "0.9043636918",
+        "source": "predict/fast-sdxl"
+    }
+}
