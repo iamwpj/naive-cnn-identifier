@@ -16,12 +16,15 @@ certifi
 cffi
 charset-normalizer
 comm
+contourpy
+cycler
 debugpy
 decorator
 defusedxml
 executing
 fastjsonschema
 flatbuffers
+fonttools
 fqdn
 gast
 google-auth
@@ -49,9 +52,11 @@ jupyterlab
 jupyterlab_pygments
 jupyterlab_server
 keras
+kiwisolver
 libclang
 Markdown
 MarkupSafe
+matplotlib
 matplotlib-inline
 mistune
 ml-dtypes
@@ -81,6 +86,7 @@ pyasn1
 pyasn1-modules
 pycparser
 Pygments
+pyparsing
 python-dateutil
 python-json-logger
 pytz
