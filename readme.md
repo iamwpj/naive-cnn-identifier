@@ -17,7 +17,7 @@ This is a total of >160,000 images.
 ## Structure
 
 > [!NOTE]  
-> Model training is not synced.
+> Model training data is not synced, but a pre-trained model _is_.
 
 * [saves](./saves/) – contains the saved trained `keras` model.
 * [reports](./reports/) – results of previous runs and testing.
