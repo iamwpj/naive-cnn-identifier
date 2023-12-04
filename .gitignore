@@ -3,7 +3,6 @@ __pycache__/
 .vscode/
 ffhq-data/
 sfhq-data/
-predict_modified/
 job_out/
 tmp/
 test.py
