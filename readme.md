@@ -16,7 +16,7 @@ This is a total of >160,000 images.
 
 ## Structure
 
-> [!INFO]  
+> [!NOTE]  
 > Model training is not synced.
 
 * [saves](./saves/) – contains the saved trained `keras` model.
