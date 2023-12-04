@@ -1,5 +1,5 @@
 .venv/
-__pyenv__/
+__pycache__/
 .vscode/
 ffhq-data/
 sfhq-data/
