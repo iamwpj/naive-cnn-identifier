@@ -35,6 +35,7 @@ h5py
 idna
 ipykernel
 ipython
+ipython-genutils
 isoduration
 jedi
 Jinja2
@@ -42,8 +43,11 @@ json5
 jsonpointer
 jsonschema
 jsonschema-specifications
+jupyter-contrib-core
 jupyter-events
+jupyter-highlight-selected-word
 jupyter-lsp
+jupyter-nbextensions-configurator
 jupyter_client
 jupyter_core
 jupyter_server
@@ -54,6 +58,7 @@ jupyterlab_server
 keras
 kiwisolver
 libclang
+lxml
 Markdown
 MarkupSafe
 matplotlib
@@ -64,6 +69,7 @@ nbclient
 nbconvert
 nbformat
 nest-asyncio
+notebook
 notebook_shim
 numpy
 oauthlib
