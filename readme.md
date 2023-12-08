@@ -66,3 +66,9 @@ Trainable params: 1551489 (5.92 MB)
 Non-trainable params: 0 (0.00 Byte)
 _________________________________________________________________
 ```
+
+## Presentation
+
+* [Slides](./presentation.slides.html)
+
+![Video of presentation](_src/cnn-naive-identifier_presentation.mp4)
